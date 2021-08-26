@@ -1,3 +1,0 @@
-temp 111
-temp 222
-temp 333
